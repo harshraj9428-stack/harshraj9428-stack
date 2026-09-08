@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hologram.png" width="220" alt="Harsh Raj Hologram"/>
+<img src="hologram.png" width="220" alt="Harsh Raj Hologram"/>
 
 # Harsh Raj
 ### Solo Full-Stack & AI Developer | IIT Patna — CS & Data Analytics
