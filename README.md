@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d3b3b,100:00F7F7&height=230&section=header&text=HARSH%20RAJ&fontSize=58&fontColor=00F7F7&fontAlignY=35&desc=Solo%20Full-Stack%20%2B%20AI%20Developer&descSize=20&descAlignY=56&animation=twinkling" width="100%"/>
 
-<img src="./hologram.png" width="200" alt="Harsh Raj Hologram" style="border-radius:50%"/>
+<img src="./hologram.gif" width="200" alt="Harsh Raj Hologram"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7F7&center=true&vCenter=true&width=600&lines=Building+full-stack+%2B+AI+products+solo;FastAPI+%C2%B7+React+%C2%B7+Ollama+%C2%B7+Groq+%C2%B7+Firebase;Crypto%2FForex+trader+%7C+Pine+Script+strategist;IIT+Patna+%7C+CPI+9.79%2F10;Shipping+real+products%2C+not+just+demos" alt="Typing SVG"/>
 
@@ -169,15 +169,26 @@ Mental wellness companion for JEE/NEET aspirants with crisis detection & KIRAN h
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00F7F7&height=3&width=100%"/>
 
-### 🐍 Contribution Snake
+### 🎯 Skill Proficiency
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/harshraj9428-stack/harshraj9428-stack/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
-
-<sub>⚠️ This animates automatically once you add the snake workflow below (one-time setup, 2 min).</sub>
-
+<img src="./skills_chart.png" width="85%" alt="skill proficiency chart"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00F7F7&height=3&width=100%"/>
+
+### 🗺️ Roadmap — What's Next
+
+```
+ 2026 ─────────────────────────────────────────────────────▶
+  │
+  ├─ ✅ Capstone-I (DailyTrack) — AI routine tracker, submitted
+  ├─ ✅ Sri Ganesh Gems — live e-commerce catalogue on Vercel
+  ├─ ✅ Charu Bot v2 — memory + mood engine, deployed
+  ├─ 🔄 Deepening ML fundamentals — KNN, decision trees, ensembles
+  ├─ 🔄 Refining ETH/BTC futures strategy — Wyckoff + SMC + ICT
+  └─ 🎯 Next build — Interactive "How a Laptop Works" visualizer
+```
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00F7F7&height=3&width=100%"/>
 
