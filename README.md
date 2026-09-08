@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hologram.png" width="220" alt="Harsh Raj Hologram"/>
+<img src="./hologram.png" width="220" alt="Harsh Raj Hologram"/>
 
 # Harsh Raj
 ### Solo Full-Stack & AI Developer | IIT Patna — CS & Data Analytics
@@ -10,6 +10,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-harshraj9428%40gmail.com-00F7F7?style=for-the-badge&logo=gmail&logoColor=black)](mailto:harshraj9428@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-raj-861213338)
 [![IIT Patna](https://img.shields.io/badge/IIT_Patna-CPI_9.79%2F10-0a0a0a?style=for-the-badge&logo=googlescholar&logoColor=00F7F7)](#)
 
 </div>
@@ -77,6 +78,7 @@
 ### 📡 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/-harshraj9428@gmail.com-00F7F7?style=flat-square&logo=gmail&logoColor=black)](mailto:harshraj9428@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Harsh_Raj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-raj-861213338)
 
 <sub>Building in public, one commit at a time. 🚀</sub>
 
